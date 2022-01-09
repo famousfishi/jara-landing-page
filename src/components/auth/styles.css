@@ -1,0 +1,359 @@
+.auth-section-login,
+.auth-section-signup {
+  max-width: 414px;
+  margin: 0 auto;
+  padding: 0 0 100px 0;
+  margin-top: 100px;
+}
+
+.single-input {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column-reverse;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.single-input .show-password {
+  right: 10%;
+  margin-top: -5px;
+  cursor: pointer;
+  color: black;
+}
+
+.single-input i:hover {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.input {
+  /* height: 44px; */
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 20px;
+  background: none;
+  outline: none;
+  color: #000;
+  /* background-color: #dedede;
+   */
+  /* background-color: #4d9966;
+   */
+  background-color: #b7cfbb;
+  color: black;
+  font-weight: bold;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+::placeholder {
+  color: black;
+  font-weight: 300 !important;
+}
+
+.submit-button-section .login {
+  width: 100%;
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 20px;
+  padding: 13px 0;
+  margin-top: 20px;
+  border: 0;
+  background-color: #009933;
+  color: #fff;
+  margin-top: 40px;
+}
+
+.submit-button-section {
+  text-align: center;
+}
+
+.not-registered {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: #878a8f;
+  margin: 10px 0;
+  background-color: #fff;
+  border: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.not-registered span {
+  color: #009933;
+  text-decoration: none !important;
+}
+
+.not-registered Link span {
+  text-decoration: none !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .single-input {
+    width: 100%;
+  }
+  .auth-section-signup,
+  .auth-section-login {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 410px) {
+  .auth-section-login,
+  .auth-section-signup {
+    padding: 0 0 50px 0;
+  }
+}
+
+.merchant-section-form {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.become-merchant-section-signup {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .merchant-section-form {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .become-merchant-section {
+    margin-top: 90px;
+  }
+
+  .become-merchant-section-image img {
+    visibility: hidden;
+  }
+
+  .become-merchant-section-signup {
+    margin-top: 90px;
+    margin-bottom: 0px;
+  }
+}
+
+.main-page-app-store-buttons {
+  width: 30%;
+  cursor: pointer;
+  margin-right: 30px;
+}
+
+.appstores-page-app-store-buttons {
+  width: 35%;
+  cursor: pointer;
+  margin-right: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .main-page-app-store-buttons {
+    width: 45%;
+    cursor: pointer;
+    margin-right: 12px;
+  }
+
+  .appstores-page-app-store-buttons {
+    width: 35%;
+    cursor: pointer;
+    margin-right: 12px;
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .appstores-page-app-store-buttons {
+    width: 35%;
+    cursor: pointer;
+    /* margin-right: 40px; */
+  }
+}
+
+.deals-section.reward-page .stores-image {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.banner-deal-page {
+  padding: 40px;
+  background-color: #33cc99;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  /* margin-right: 90px;
+  margin-left: 90px;
+  position: absolute;
+  top: 0;
+  left: 0; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-right: 90px;
+  margin-left: 90px;
+}
+
+.deals-section.reward-page.deal-page {
+  background-color: #faf8f6;
+  position: relative;
+  padding-bottom: 500px;
+}
+
+.banner-reward-page {
+  padding: 40px;
+  background-color: #33cc99;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  /* margin-right: 90px;
+  margin-left: 90px;
+  position: absolute;
+  top: 0;
+  left: 0; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-right: 90px;
+  margin-left: 90px;
+}
+
+.deals-section.reward-page.wallet-page {
+  background-color: #f1f0f5 !important;
+  padding-bottom: 90px !important;
+}
+
+.deals-section.reward-page.reward-page {
+  background-color: #faf8f6;
+  position: relative;
+  padding-bottom: 100px;
+}
+
+@media only screen and (max-width: 768px) {
+  .deals-section.reward-page.deal-page {
+    background-color: #faf8f6;
+    position: relative;
+    padding-bottom: 90px !important;
+  }
+
+  .deals-section.reward-page.wallet-page {
+    background-color: #f1f0f5 !important;
+    padding-bottom: 100px;
+  }
+
+  .banner-deal-page {
+    padding: 20px;
+    background-color: #33cc99;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    /* margin-right: 25px;
+    margin-left: 25px;
+    position: absolute;
+    top: 0;
+    left: 0; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .deals-section.reward-page.reward-page {
+    background-color: #faf8f6;
+    position: relative;
+    padding-bottom: 50px;
+  }
+
+  .banner-reward-page {
+    padding: 20px;
+    background-color: #33cc99;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    /* margin-right: 40px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    left: 0; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .deals-section.reward-page.reward-page .stores-image {
+    width: 50%;
+  }
+}
+
+.deals-section.reward-page .header-stores-content {
+  color: #288936;
+  font-size: 1.4rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.deals-section.reward-page .content {
+  color: #596271;
+  font-weight: 700;
+  text-align: justify;
+  font-size: 1.3rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .deals-section.reward-page .stores-image {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .deals-section.reward-page .header-stores-content {
+    color: #288936;
+    /* font-size: 1.4rem; */
+    /* text-align: center; */
+    margin-top: 3px;
+  }
+
+  .deals-section.reward-page .content {
+    color: #596271;
+    font-weight: 700;
+    /* text-align: justify; */
+  }
+}
+
+.back-to-top {
+  color: #288936 !important;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+.back-to-top:hover {
+  color: red !important;
+  transition: all 5s !important;
+}
+
+.email-address-newsletter {
+  /* background-color: #288936; */
+  color: white;
+}
+
+.email-address-newsletter:hover {
+  color: #33cc99 !important;
+  transition: all 7s !important;
+  cursor: pointer;
+}
+
+/* @media only screen and (max-width: 1048px) {
+  h1 {
+    font-size: 3.6rem;
+  }
+} */

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4C4C4C;}
+	.st1{opacity:0.8;fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{opacity:0.8;fill:url(#SVGID_3_);}
+	.st4{fill:url(#SVGID_4_);}
+	.st5{fill:#FFFFFF;}
+	.st6{opacity:0.8;fill:url(#SVGID_5_);}
+	.st7{fill:url(#SVGID_6_);}
+	.st8{opacity:0.8;fill:url(#SVGID_7_);}
+	.st9{fill:url(#SVGID_8_);}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st11{opacity:0.8;fill:url(#SVGID_9_);}
+	.st12{fill:url(#SVGID_10_);}
+	.st13{opacity:0.8;fill:url(#SVGID_11_);}
+	.st14{fill:url(#SVGID_12_);}
+	.st15{opacity:0.8;fill:url(#SVGID_13_);}
+	.st16{fill:url(#SVGID_14_);}
+	.st17{opacity:0.8;fill:url(#SVGID_15_);}
+	.st18{fill:url(#SVGID_16_);}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#EE1D52;}
+	.st20{fill-rule:evenodd;clip-rule:evenodd;fill:#69C9D0;}
+	.st21{opacity:0.8;fill:url(#SVGID_17_);}
+	.st22{fill:url(#SVGID_18_);}
+	.st23{opacity:0.8;fill:url(#SVGID_19_);}
+	.st24{fill:url(#SVGID_20_);}
+	.st25{opacity:0.8;fill:url(#SVGID_21_);}
+	.st26{fill:url(#SVGID_22_);}
+	.st27{opacity:0.8;fill:url(#SVGID_23_);}
+	.st28{fill:url(#SVGID_24_);}
+	.st29{fill:url(#SVGID_25_);}
+	.st30{fill:url(#SVGID_26_);}
+	.st31{fill:url(#SVGID_27_);}
+	.st32{fill:url(#SVGID_28_);}
+	.st33{opacity:0.8;fill:url(#SVGID_29_);}
+	.st34{opacity:0.8;fill:url(#SVGID_30_);}
+	.st35{opacity:0.8;fill:url(#SVGID_31_);}
+	.st36{opacity:0.8;fill:url(#SVGID_32_);}
+	.st37{opacity:0.8;fill:url(#SVGID_33_);}
+	.st38{opacity:0.8;fill:url(#SVGID_34_);}
+	.st39{opacity:0.8;fill:url(#SVGID_35_);}
+	.st40{opacity:0.8;fill:url(#SVGID_36_);}
+	.st41{opacity:0.8;fill:url(#SVGID_37_);}
+	.st42{opacity:0.8;fill:url(#SVGID_38_);}
+	.st43{opacity:0.8;fill:url(#SVGID_39_);}
+	.st44{opacity:0.8;fill:url(#SVGID_40_);}
+</style>
+<g id="BACKGROUND">
+</g>
+<g id="ELEMENTS">
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="86.2125" y1="93.1667" x2="401.5845" y2="408.5387">
+				<stop  offset="0" style="stop-color:#4676ED"/>
+				<stop  offset="0.1854" style="stop-color:#436DE4"/>
+				<stop  offset="0.487" style="stop-color:#3C55CD"/>
+				<stop  offset="0.8651" style="stop-color:#302EA8"/>
+				<stop  offset="1" style="stop-color:#2B1E99"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_1_);" d="M466.9,250.9c0-123.2-99.8-223-223-223s-223,99.8-223,223c0,111.3,81.5,203.6,188.2,220.3
+				V315.3h-56.6v-64.5h56.6v-49.1c0-55.9,33.3-86.8,84.2-86.8c24.4,0,49.9,4.4,49.9,4.4v54.9h-28.1c-27.7,0-36.3,17.2-36.3,34.8
+				v41.8h61.8l-9.9,64.5h-52v155.8C385.4,454.4,466.9,362.2,466.9,250.9z"/>
+			<path class="st5" d="M330.7,315.3l9.9-64.5h-61.8V209c0-17.6,8.6-34.8,36.3-34.8h28.1v-54.9c0,0-25.5-4.4-49.9-4.4
+				c-50.9,0-84.2,30.9-84.2,86.8v49.1h-56.6v64.5h56.6v155.8c11.4,1.8,23,2.7,34.8,2.7c11.9,0,23.5-0.9,34.8-2.7V315.3H330.7z"/>
+		</g>
+	</g>
+</g>
+</svg>
